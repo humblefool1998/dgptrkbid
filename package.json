@@ -1,0 +1,22 @@
+{
+  "name": "dgptrkbid",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humblefool1998/dgptrkbid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humblefool1998/dgptrkbid/issues"
+  },
+  "homepage": "https://github.com/humblefool1998/dgptrkbid#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
